@@ -16,3 +16,9 @@ phonenumbers
 argparse
 urllib3
 
+ Commands:
+# git clone https://github.com/lubbulubbe4/OPRecon
+cd OPRecon
+# python3 -m pip install -r requirements.txt
+# chmod +x *
+# bash run.sh
